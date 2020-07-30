@@ -13,7 +13,6 @@ hide_title: false
 |ISBN: |TBA.|
 |Author: |Freddy Munandar|
 
-
 Buku ini dibuat untuk mempercepat adopsi teknologi Chatbot dalam berbagai macam industri khususnya korporasi atau organisasi yang memiliki banyak pegawai. 
 Dan juga untuk memudahkan pengembang perangkat lunak agar memiliki kemampuan dan pengetahuan untuk mengembangkan Chatbot.
 
