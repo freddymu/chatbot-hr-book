@@ -62,7 +62,8 @@ Ada Zypnos, yang saat ini masih beta, Tidak banyak yang bisa dicoba, karena keti
 
 Dari beberapa tools yang dijelaskan tadi, untuk saat ini yang bisa digunakan adalah Alma dari Chatbottest, botium dan Qbox.ai.
 Qbox.ai ini menggunakan metode yang berbeda disbanding dengan tools yang lainnya. Karena Qbox.ai akan melalakukan Analisa terhadap dataset yang digunakan sebelum menguji chatbot. Karena fokusnya qbox.ai adalah mengoptimasi data training yang kita miliki. Dengan menunjukan hasil dalam bentuk grafik dan rangkuman table yang bisa digunakan sebagai acuan untuk meningkatkan kualitas dari data training chatbot.
-Kesimpulan Alat Pengujian Chatbot
+
+## Kesimpulan Alat Pengujian Chatbot
 
 1. Alma Chatbottest dapat digunakan untuk menguji desain chatbot
 2. Botium dapat digunakan untuk menguji respon chatbot dengan berbagai macam Bahasa, dapat di install on-premise dan diintegrasikan dengan CI/CD

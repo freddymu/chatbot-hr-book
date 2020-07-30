@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Chatbot HR dan Masa Depan Sumber Daya Manusia', // Title for your website.
+  title: 'Chatbot HR dan Masa Depan Manajemen Sumber Daya Manusia', // Title for your website.
   tagline:
     'Tingkatkan kualitas tim HR sehingga dapat mendukung peningkatan kualitas setiap personil dan kemajuan perusahaan',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
@@ -39,10 +39,19 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: 'intro', label: 'Read Online' },
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
+    {
+      href: 'https://github.com/freddymu/chatbot-hr-book',
+      label: 'GitHub',
+      external: true,
+    },
+    {
+      href: '#',
+      label: 'Download PDF',
+      external: true,
+    },
   ],
 
   // If you have users set above, you add it here:
@@ -55,8 +64,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#14a850',
-    secondaryColor: '#0e7538',
+    primaryColor: '#BD1E1E',
+    secondaryColor: '#050517',
   },
 
   /* Custom fonts for website */
@@ -110,7 +119,6 @@ const siteConfig = {
   scrollToTop: true,
   defaultVersionShown: '0.1.0',
   editUrl: 'https://github.com/freddymu/chatbot-hr-book/edit/master/docs/',
-
 };
 
 module.exports = siteConfig;

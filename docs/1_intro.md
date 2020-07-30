@@ -5,22 +5,19 @@ sidebar_label: Intro
 hide_title: false
 ---
 
-Edisi: I – September 2020
+|Edisi:| I – September 2020|
+|------|------|
+|Jenis:| Software Development|
+|Publisher:| FRED Universe Media|
+|Imprint:| Independently published|
+|ISBN: |TBA.|
+|Author: |Freddy Munandar|
 
-Jenis: Software Development
-
-Publisher: Fred Universe Media
-
-Imprint: Independently published
-
-ISBN: TBA.
-
-Author: Freddy Munandar
 
 Buku ini dibuat untuk mempercepat adopsi teknologi Chatbot dalam berbagai macam industri khususnya korporasi atau organisasi yang memiliki banyak pegawai. 
 Dan juga untuk memudahkan pengembang perangkat lunak agar memiliki kemampuan dan pengetahuan untuk mengembangkan Chatbot.
 
-![FREDUNIVERSE LOGO](../../assets/img/freduniverse-logo.png)
+![FREDUNIVERSE LOGO](./assets/freduniverse-logo.png)
 
 Buku edisi pertama ini adalah buku yang didedikasikan kepada komunitas para pengembang perangkat lunak di Indonesia. Buku ini berisi referensi dan tutorial.
 Teknologi yang digunakan dalam buku ini adalah Google Dialogflow, SQLite3, Facebook Messenger API, JavaScript / NodeJs, Postman, dan lain sebagainya.

@@ -14,12 +14,14 @@ Saya akan mulai dari sejarah. Mempelajari sejarah itu penting karena memungkinka
 
 Turing test adalah ujian yang menentukan apakah suatu mesin mampu menunjukan perilaku cerdas yang mirip dengan manusia atau tidak dapat dibedakan dari manusia.
 
-Figure 1.1 1 Turing Test
+![Turing Test](../assets/bagian-1/gambar-1-1-turing-test.gif)
+*Gambar-1.1 Turing Test*
 
 Berbagai macam sistem kecerdasan buatan sudah mencoba turing test dan hasilnya tidak ada yang pernah lolos. Sampai pada tahun 2014, barulah ada yang mengklaim bahwa chatbot yang dibuatnya telah lolos turing test dan pertama didunia yang lolos turing test. Yang artinya ketika ada yang berinteraksi dengan chatbot tersebut, tidak akan sadar bahwa sedang berinteraksi dengan robot. Keren ya!
 Siapakah chatbot tersebut? namanya Eugene Goostman.
 
-Figure 1.1 2 Eugene Goostman
+![Eugene Goostman](../assets/bagian-1/gambar-1-2-eugene-goostman.png)
+*Gambar-1.2 Eugene Goostman*
 
 Eugene Goostman adalah chatbot yang oleh beberapa orang dianggap telah lulus tes Turing, tes kemampuan komputer untuk berkomunikasi tanpa bisa dibedakan dari manusia.
 
@@ -31,7 +33,8 @@ Microsoft juga merilis chatbot Zo yang juga memposting konten yang rasis di Twit
 
 Dan di tahun 2016 juga, Facebook merilis bot untuk aplikasi chat messenger. Pada saat inilah Chatbot mulai Hype dan mulai banyak diadopsi, dan banyak perusahaan mencoba membuat platform chatbot. Disinilah bisa dibilang awal kebangkitan chatbot di era modern. Lalu Google menyusul dengan membuka platform Google Assistants agar developer bisa membuat bot untuk google assistants.
 
-Figure 1.1 3 Sejarah Singkat Chatbot
+![Sejarah Singkat Chatbot](../assets/bagian-1/gambar-1-3-sejarah-singkat-chatbot.png)
+*Gambar-1.3 Sejarah Singkat Chatbot*
 
 Lalu di tahun 2017, Microsoft Indonesia merilis chatbot bernama Rinna di LINE Messenger dan Facebook Messenger. Menurut saya ini chatbot yang humanis, karena chatbot Rinna dapat menunjukan emosional seperti bahagia, senang, takut atau marah melalui chatting dengan emoticon atau gambar. Karakter Rinna adalah karakter anak muda yang di desain dengan latar belakang anak SMA di Indonesia, jadi cukup tau juga bahasa alay.
 

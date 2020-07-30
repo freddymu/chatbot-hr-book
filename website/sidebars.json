@@ -3,7 +3,9 @@
         "Pembukaan": [
             "cover",
             "intro",
+            "testimonial",
             "daftar-isi",
+            "daftar-gambar",
             "kata-pengantar"
         ],
         "Bagian 1": [

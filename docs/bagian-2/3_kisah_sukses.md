@@ -7,6 +7,7 @@ hide_title: false
 ## 2.3 Kisah Sukses
 
 Sejak buku ini ditulis, belum ada perusahaan di Indonesia yang memberitakan keberhasilannya dalam mengimplementasikan Kisah Sukses di perusahaannya. Maka dari itu semoga dengan adanya buku ini banyak praktisi HR atau staff HR yang tertarik untuk men-sukseskan implementasi Kisah Sukses di perusahaanya. Sehingga dapat meningkatkan kualitas dari pelayanan HR kepada pegawai ataupun kandidat sekaligus meningkatkan kualitas tim HR karena pekerjaan yang sifatnya repetitive atau berulang-ulang sudah ditangani oleh chatbot dan staff HR dapat memiliki waktu lebih untuk mengembangkan diri dan menyiapkan strategi untuk meningkatkan kualitas sumber daya manusia diperusahaanya.
+
 Beberapa Kisah Sukses yang ada salah satunya bernama Moon. Moon adalah Kisah Sukses yang dapat membantu ribuan pegawai sekaligus dalam hal Pre-Boarding, On-Boarding, Training, Engagement, HR Queries, HR FAQ, dan lain sebagainya. 
  
 https://askformoon.io/
