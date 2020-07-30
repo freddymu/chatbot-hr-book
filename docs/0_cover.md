@@ -1,6 +1,8 @@
 ---
-id: cover
-title: Chatbot HR & Masa Depan Manajemen Sumber Daya Manusia
-sidebar_label: Cover
+id: sampul-buku
+title: Sampul Buku
+sidebar_label: Sampul Buku
 hide_title: false
 ---
+
+![Cover](./assets/cover.png)

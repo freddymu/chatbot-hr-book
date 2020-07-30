@@ -25,4 +25,4 @@ Teknologi yang digunakan dalam buku ini adalah Google Dialogflow, SQLite3, Faceb
 ## Untuk siapa buku ini
 
 - Bagian 1 - 3 ditujukan untuk umum, Praktisi HR, Staff HR, Manager HR
-- Bagian 4 - 8 ditujukan untuk pengembang perangkat lunak dengan pengetahuan minimal basic JavaScript / NodeJS.
+- Bagian 4 - 8 ditujukan untuk pengembang perangkat lunak dengan pengetahuan minimal basic JavaScript atau NodeJS.
