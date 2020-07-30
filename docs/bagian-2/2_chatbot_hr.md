@@ -1,5 +1,5 @@
 ---
-id: bagian-2-2
+id: chatbot-hr
 title: Bagian 2 - Masa Depan Manajemen Sumber Daya Manusia
 sidebar_label: Chatbot HR
 hide_title: false

@@ -1,5 +1,5 @@
 ---
-id: bagian-1-5
+id: berbagai-macam-alat-pengujian-chatbot
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Berbagai Macam Alat Pengujian Chatbot
 hide_title: false

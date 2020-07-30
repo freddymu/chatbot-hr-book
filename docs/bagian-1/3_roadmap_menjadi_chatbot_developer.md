@@ -1,5 +1,5 @@
 ---
-id: bagian-1-3
+id: roadmap-menjadi-chatbot-developer
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Roadmap Menjadi Chatbot Developer
 hide_title: false

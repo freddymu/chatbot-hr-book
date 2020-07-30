@@ -1,5 +1,5 @@
 ---
-id: bagian-5-14
+id: integrasi-chatbot-dengan-web
 title: Bagian 5 - Dialogflow Sebagai NLP Engine
 sidebar_label: Integrasi Chatbot Dengan Web
 hide_title: false

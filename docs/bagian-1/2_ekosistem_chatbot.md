@@ -1,5 +1,5 @@
 ---
-id: bagian-1-2
+id: ekosistem-chatbot
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Ekosistem Chatbot
 hide_title: false

@@ -52,6 +52,11 @@ const siteConfig = {
       label: 'Download PDF',
       external: true,
     },
+    {
+        href: '#',
+        label: 'Support Me 🤑',
+        external: true,
+      },
   ],
 
   // If you have users set above, you add it here:
@@ -118,7 +123,7 @@ const siteConfig = {
   docsUrl: '',
   scrollToTop: true,
   defaultVersionShown: '0.1.0',
-  editUrl: 'https://github.com/freddymu/chatbot-hr-book/edit/master/docs/',
+  // editUrl: 'https://github.com/freddymu/chatbot-hr-book/edit/master/docs/',
 };
 
 module.exports = siteConfig;

@@ -1,5 +1,5 @@
 ---
-id: bagian-2-3
+id: kisah-sukses
 title: Bagian 2 - Masa Depan Manajemen Sumber Daya Manusia
 sidebar_label: Kisah Sukses
 hide_title: false

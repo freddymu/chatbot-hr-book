@@ -1,5 +1,5 @@
 ---
-id: bagian-1-4
+id: cara-membuat-chatbot-yang-disukai-orang
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Cara Membuat Chatbot Yang Disukai Orang
 hide_title: false

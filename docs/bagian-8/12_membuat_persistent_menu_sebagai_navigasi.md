@@ -1,7 +1,7 @@
 ---
-id: bagian-8-12
+id: membuat-persistent-menu-sebagai-navigasi
 title: Bagian 8 - Integrasi Chatbot Dengan Facebook Messenger
-sidebar_label: Membaut Persistent Menu Sebagai Navigasi
+sidebar_label: Membuat Persistent Menu Sebagai Navigasi
 hide_title: false
 ---
-## Membaut Persistent Menu Sebagai Navigasi
+## Membuat Persistent Menu Sebagai Navigasi

@@ -1,5 +1,5 @@
 ---
-id: bagian-1-6
+id: esensi-natural-language-processing-nlp
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Esensi Natural Language Processing (NLP)
 hide_title: false

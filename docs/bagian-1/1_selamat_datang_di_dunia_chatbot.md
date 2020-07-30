@@ -1,5 +1,5 @@
 ---
-id: bagian-1-1
+id: selamat-datang-di-dunia-chatbot
 title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Selamat Datang Di Dunia Chatbot
 hide_title: false

@@ -1,5 +1,5 @@
 ---
-id: bagian-4-5
+id: mendesain-basis-data
 title: Bagian 4 - Analisis & Desain Chatbot HR
 sidebar_label: Mendesain Basis Data
 hide_title: false

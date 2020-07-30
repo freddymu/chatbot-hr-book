@@ -9,88 +9,90 @@
             "kata-pengantar"
         ],
         "Bagian 1": [
-            "bagian-1/bagian-1-1",
-            "bagian-1/bagian-1-2",
-            "bagian-1/bagian-1-3",
-            "bagian-1/bagian-1-4",
-            "bagian-1/bagian-1-5",
-            "bagian-1/bagian-1-6"
+            "bagian-1/selamat-datang-di-dunia-chatbot",
+            "bagian-1/ekosistem-chatbot",
+            "bagian-1/roadmap-menjadi-chatbot-developer",
+            "bagian-1/cara-membuat-chatbot-yang-disukai-orang",
+            "bagian-1/berbagai-macam-alat-pengujian-chatbot",
+            "bagian-1/esensi-natural-language-processing-nlp"
         ],
         "Bagian 2": [
-            "bagian-2/bagian-2-1",
-            "bagian-2/bagian-2-2",
-            "bagian-2/bagian-2-3"
+            "bagian-2/latar-belakang",
+            "bagian-2/chatbot-hr",
+            "bagian-2/kisah-sukses"
         ],
         "Bagian 3": [
-            "bagian-3/bagian-3-1",
-            "bagian-3/bagian-3-2",
-            "bagian-3/bagian-3-3"
+            "bagian-3/system-request",
+            "bagian-3/uji-kelayakan",
+            "bagian-3/biaya-pengembangan-chatbot"
         ],
         "Bagian 4": [
-            "bagian-4/bagian-4-1",
-            "bagian-4/bagian-4-2",
-            "bagian-4/bagian-4-3",
-            "bagian-4/bagian-4-4",
-            "bagian-4/bagian-4-5"
+            "bagian-4/spesifikasi-chatbot",
+            "bagian-4/sistem-desain",
+            "bagian-4/mendesain-karakter-chatbot",
+            "bagian-4/mendesain-percakapan-chatbot",
+            "bagian-4/mendesain-basis-data"
         ],
         "Bagian 5": [
-            "bagian-5/bagian-5-1",
-            "bagian-5/bagian-5-2",
-            "bagian-5/bagian-5-3",
-            "bagian-5/bagian-5-4",
-            "bagian-5/bagian-5-5",
-            "bagian-5/bagian-5-6",
-            "bagian-5/bagian-5-7",
-            "bagian-5/bagian-5-8",
-            "bagian-5/bagian-5-9",
-            "bagian-5/bagian-5-10",
-            "bagian-5/bagian-5-11",
-            "bagian-5/bagian-5-12",
-            "bagian-5/bagian-5-13",
-            "bagian-5/bagian-5-14"
+            "bagian-5/pengenalan-dialogflow",
+            "bagian-5/arsitektur-chatbot-menggunakan-dialogflow",
+            "bagian-5/membuat-agent-dialogflow",
+            "bagian-5/memahami-default-welcome-intent",
+            "bagian-5/memahami-fallback-intent",
+            "bagian-5/memahami-intents",
+            "bagian-5/memahami-entitas",
+            "bagian-5/memanfaatkan-slog-filling",
+            "bagian-5/memahami-context",
+            "bagian-5/menggunakan-intent-follow-up",
+            "bagian-5/slot-filling-vs-intent-follow-up",
+            "bagian-5/memahami-fulfillment",
+            "bagian-5/menggunakan-google-cloud-function",
+            "bagian-5/integrasi-chatbot-dengan-web"
         ],
         "Bagian 6": [
-            "bagian-6/bagian-6-1",
-            "bagian-6/bagian-6-2",
-            "bagian-6/bagian-6-3",
-            "bagian-6/bagian-6-4"
+            "bagian-6/pengenalan-sqlite3",
+            "bagian-6/tabel-marital-status",
+            "bagian-6/tabel-employee-roles",
+            "bagian-6/tabel-employee"
         ],
         "Bagian 7": [
-            "bagian-7/bagian-7-1",
-            "bagian-7/bagian-7-2",
-            "bagian-7/bagian-7-3",
-            "bagian-7/bagian-7-4",
-            "bagian-7/bagian-7-5",
-            "bagian-7/bagian-7-6",
-            "bagian-7/bagian-7-7",
-            "bagian-7/bagian-7-8",
-            "bagian-7/bagian-7-9",
-            "bagian-7/bagian-7-10"
+            "bagian-7/verifikasi-akun-pegawai",
+            "bagian-7/mengganti-pin",
+            "bagian-7/verifikasi-data-pegawai",
+            "bagian-7/merekam-data-kehadiran",
+            "bagian-7/merekam-data-reimburse",
+            "bagian-7/merekam-data-keluhan",
+            "bagian-7/membaca-berita",
+            "bagian-7/mencari-informasi-data-pegawai",
+            "bagian-7/mencari-informasi-lowongan-kerja",
+            "bagian-7/merekam-data-pelamar-kerja"
         ],
         "Bagian 8": [
-            "bagian-8/bagian-8-1",
-            "bagian-8/bagian-8-2",
-            "bagian-8/bagian-8-3",
-            "bagian-8/bagian-8-4",
-            "bagian-8/bagian-8-5",
-            "bagian-8/bagian-8-6",
-            "bagian-8/bagian-8-7",
-            "bagian-8/bagian-8-8",
-            "bagian-8/bagian-8-9",
-            "bagian-8/bagian-8-10",
-            "bagian-8/bagian-8-11",
-            "bagian-8/bagian-8-12",
-            "bagian-8/bagian-8-13",
-            "bagian-8/bagian-8-14"
+            "bagian-8/registrasi-facebook-developer",
+            "bagian-8/membuat-aplikasi-facebook",
+            "bagian-8/konfigurasi-dialogflow-dengan-facebook",
+            "bagian-8/pengujian-integrasi-dialogflow-dengan-facebook",
+            "bagian-8/pengenalan-facebook-messenger-api",
+            "bagian-8/menggunakan-facebook-messenger-api-untuk-mengirim-pesan",
+            "bagian-8/mengenal-berbagai-macam-format-pesan",
+            "bagian-8/meminta-data-lokasi-untuk-absensi",
+            "bagian-8/menggunakan-quick-replies",
+            "bagian-8/menggunakan-template-untuk-menampilkan-berita",
+            "bagian-8/menggunakan-template-untuk-menampilkan-profil-pegawai",
+            "bagian-8/membuat-persistent-menu-sebagai-navigasi",
+            "bagian-8/broadcast-pesan",
+            "bagian-8/publikasi-chatbot"
         ],
-        "Bagian 9": [
-            "bagian-99/lampiran-1",
-            "bagian-99/lampiran-2",
-            "bagian-99/lampiran-3",
-            "bagian-99/penutup",
-            "bagian-99/istilah-istilah",
-            "bagian-99/referensi",
-            "bagian-99/tentang-penulis"
+        "Lampiran": [
+            "lampiran/source-code-chatbot-hr",
+            "lampiran/import-chatbot-dialogflow",
+            "lampiran/export-chatbot-dialogflow"
+        ],
+        "Lain-Lain": [
+            "penutup",
+            "istilah-istilah",
+            "referensi",
+            "tentang-penulis"
         ]
     }
     

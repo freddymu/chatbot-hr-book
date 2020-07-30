@@ -1,5 +1,5 @@
 ---
-id: bagian-2-1
+id: latar-belakang
 title: Bagian 2 - Masa Depan Manajemen Sumber Daya Manusia
 sidebar_label: Latar Belakang
 hide_title: false
