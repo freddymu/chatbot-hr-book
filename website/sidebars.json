@@ -1,0 +1,95 @@
+{
+    "docs": {
+        "Pembukaan": [
+            "cover",
+            "intro",
+            "daftar-isi",
+            "kata-pengantar"
+        ],
+        "Bagian 1": [
+            "bagian-1/bagian-1-1",
+            "bagian-1/bagian-1-2",
+            "bagian-1/bagian-1-3",
+            "bagian-1/bagian-1-4",
+            "bagian-1/bagian-1-5",
+            "bagian-1/bagian-1-6"
+        ],
+        "Bagian 2": [
+            "bagian-2/bagian-2-1",
+            "bagian-2/bagian-2-2",
+            "bagian-2/bagian-2-3"
+        ],
+        "Bagian 3": [
+            "bagian-3/bagian-3-1",
+            "bagian-3/bagian-3-2",
+            "bagian-3/bagian-3-3"
+        ],
+        "Bagian 4": [
+            "bagian-4/bagian-4-1",
+            "bagian-4/bagian-4-2",
+            "bagian-4/bagian-4-3",
+            "bagian-4/bagian-4-4",
+            "bagian-4/bagian-4-5"
+        ],
+        "Bagian 5": [
+            "bagian-5/bagian-5-1",
+            "bagian-5/bagian-5-2",
+            "bagian-5/bagian-5-3",
+            "bagian-5/bagian-5-4",
+            "bagian-5/bagian-5-5",
+            "bagian-5/bagian-5-6",
+            "bagian-5/bagian-5-7",
+            "bagian-5/bagian-5-8",
+            "bagian-5/bagian-5-9",
+            "bagian-5/bagian-5-10",
+            "bagian-5/bagian-5-11",
+            "bagian-5/bagian-5-12",
+            "bagian-5/bagian-5-13",
+            "bagian-5/bagian-5-14"
+        ],
+        "Bagian 6": [
+            "bagian-6/bagian-6-1",
+            "bagian-6/bagian-6-2",
+            "bagian-6/bagian-6-3",
+            "bagian-6/bagian-6-4"
+        ],
+        "Bagian 7": [
+            "bagian-7/bagian-7-1",
+            "bagian-7/bagian-7-2",
+            "bagian-7/bagian-7-3",
+            "bagian-7/bagian-7-4",
+            "bagian-7/bagian-7-5",
+            "bagian-7/bagian-7-6",
+            "bagian-7/bagian-7-7",
+            "bagian-7/bagian-7-8",
+            "bagian-7/bagian-7-9",
+            "bagian-7/bagian-7-10"
+        ],
+        "Bagian 8": [
+            "bagian-8/bagian-8-1",
+            "bagian-8/bagian-8-2",
+            "bagian-8/bagian-8-3",
+            "bagian-8/bagian-8-4",
+            "bagian-8/bagian-8-5",
+            "bagian-8/bagian-8-6",
+            "bagian-8/bagian-8-7",
+            "bagian-8/bagian-8-8",
+            "bagian-8/bagian-8-9",
+            "bagian-8/bagian-8-10",
+            "bagian-8/bagian-8-11",
+            "bagian-8/bagian-8-12",
+            "bagian-8/bagian-8-13",
+            "bagian-8/bagian-8-14"
+        ],
+        "Bagian 9": [
+            "bagian-99/lampiran-1",
+            "bagian-99/lampiran-2",
+            "bagian-99/lampiran-3",
+            "bagian-99/penutup",
+            "bagian-99/istilah-istilah",
+            "bagian-99/referensi",
+            "bagian-99/tentang-penulis"
+        ]
+    }
+    
+}
