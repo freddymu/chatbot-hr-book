@@ -4,4 +4,4 @@ title: Bagian 4 - Analisis & Desain Chatbot HR
 sidebar_label: Mendesain Basis Data
 hide_title: false
 ---
-## 4.5 Mendesain Basis Data
+## Mendesain Basis Data

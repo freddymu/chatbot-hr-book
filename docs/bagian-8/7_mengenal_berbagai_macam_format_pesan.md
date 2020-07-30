@@ -4,4 +4,4 @@ title: Bagian 8 - Integrasi Chatbot Dengan Facebook Messenger
 sidebar_label: Mengenal Berbagai Macam Format Pesan
 hide_title: false
 ---
-## 8.7 Mengenal Berbagai Macam Format Pesan
+## Mengenal Berbagai Macam Format Pesan

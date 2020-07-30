@@ -4,7 +4,7 @@ title: Bagian 2 - Masa Depan Manajemen Sumber Daya Manusia
 sidebar_label: Latar Belakang
 hide_title: false
 ---
-## 2.1 Latar Belakang
+## Latar Belakang
 
 Human Resource Management adalah prosedur sistematik untuk mengumpulkan, menyimpan, mempertahankan, menarik, dan menvalidasi data yang dibutuhkan oleh sebuah organisasi tentang sumber daya manusia, aktivitas sumber daya manusia, dan karakteristik unit organisasinya. (Manajemen Sumber Daya Manusia, Henry Simamora).
 

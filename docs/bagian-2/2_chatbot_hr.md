@@ -4,7 +4,7 @@ title: Bagian 2 - Masa Depan Manajemen Sumber Daya Manusia
 sidebar_label: Chatbot HR
 hide_title: false
 ---
-## 2.2 Chatbot HR
+## Chatbot HR
 
 ### Pengertian Chatbot HR
 

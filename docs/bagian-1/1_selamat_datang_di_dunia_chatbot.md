@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Selamat Datang Di Dunia Chatbot
 hide_title: false
 ---
-## 1.1 Selamat Datang Di Dunia Chatbot
+## Selamat Datang Di Dunia Chatbot
 
 Halo! di bagian pertama ini saya akan membahas berbagai macam hal tentang chatbot, mulai dari sejarah singkat sampai perusahaan chatbot di Indonesia.
 

@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Esensi Natural Language Processing (NLP)
 hide_title: false
 ---
-## 1.6 Esensi Natural Language Processing (NLP)
+## Esensi Natural Language Processing (NLP)
 
 Menurut wikipedia adalah pemrosesan bahasa alami, disingkat PBA atau NLP (natural language processing), adalah cabang ilmu komputer dan linguistik yang mengkaji interaksi antara komputer dengan bahasa (alami) manusia. NLP sering dianggap sebagai cabang dari kecerdasan buatan dan bidang kajiannya bersinggungan dengan linguistik komputasional. Kajian NLP antara lain mencakup segmentasi tuturan (speech segmentation), segmentasi teks (text segmentation), penandaan kelas kata (part-of-speech tagging), serta pengawataksaan makna (word sense disambiguation). Meskipun kajiannya dapat mencakup teks dan tuturan, pemrosesan tuturan (speech processing) telah berkembang menjadi suatu bidang kajian terpisah.
 

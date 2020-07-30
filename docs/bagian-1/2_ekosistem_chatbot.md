@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Ekosistem Chatbot
 hide_title: false
 ---
-## 1.2 Ekosistem Chatbot
+## Ekosistem Chatbot
 
 Perhatikan trend keyword chatbot di dunia, dari tahun ke tahun meningkat dapat dilihat dari grafik berikut. Ini adalah fakta, bahwa perkembangan dan minat terhadap chatbot telah meningkat dari tahun ke tahun. Lalu bagaimana dengan trend di Indonesia, mari kita lihat grafik berikut ini.
 

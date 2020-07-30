@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Berbagai Macam Alat Pengujian Chatbot
 hide_title: false
 ---
-## 1.5 Berbagai Macam Alat Pengujian Chatbot
+## Berbagai Macam Alat Pengujian Chatbot
 
 Pengujian chatbot adalah bagian dari siklus hidup pengembangan software, 
 dan jangan lupa bahwa chatbot itu adalah software atau perangkat lunak juga.

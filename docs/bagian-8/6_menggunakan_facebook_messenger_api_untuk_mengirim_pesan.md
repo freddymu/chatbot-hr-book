@@ -4,4 +4,4 @@ title: Bagian 8 - Integrasi Chatbot Dengan Facebook Messenger
 sidebar_label: Menggunakan Facebook Messenger API Untuk Mengirim Pesan
 hide_title: false
 ---
-## 8.6 Menggunakan Facebook Messenger API Untuk Mengirim Pesan
+## Menggunakan Facebook Messenger API Untuk Mengirim Pesan

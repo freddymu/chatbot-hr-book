@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Cara Membuat Chatbot Yang Disukai Orang
 hide_title: false
 ---
-## 1.4 Cara Membuat Chatbot Yang Disukai Orang
+## Cara Membuat Chatbot Yang Disukai Orang
 
 Mendesain chatbot adalah pekerjaan yang tidak mudah, apalagi kalau Anda tipe orang yang jarang berbicara dengan orang lain atau malas berkomunikasi basa-basi. Karakter seperti ini biasanya adalah salah satu ciri seorang introvert. Tapi menurut saya, ilmu komunikasi itu itu bisa dipelajari siapapun asalkan ada kemauan dan aksi yang dilakukan untuk mewudujkannya.
 Ok, kita mulai dengan melihat profesi AI Interaction Designer.

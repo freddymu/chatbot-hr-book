@@ -4,7 +4,7 @@ title: Bagian 1 - Menambah Wawasan Tentang Chatbot
 sidebar_label: Roadmap Menjadi Chatbot Developer
 hide_title: false
 ---
-## 1.3 Roadmap Menjadi Chatbot Developer
+## Roadmap Menjadi Chatbot Developer
 
 Untuk menjadi seorang Chatbot Developer Anda bisa memulainya dari seorang Software Developer. Dan yang lebih mudah untuk menjadi Chatbot Developer adalah seorang Backend Developer. Untuk melihat detail kemampuan dan pengetahuan Frontend Developer dan Backend Developer, silahkan akses https://roadmap.sh/
   
