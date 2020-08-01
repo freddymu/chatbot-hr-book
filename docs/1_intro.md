@@ -5,6 +5,8 @@ sidebar_label: Intro
 hide_title: false
 ---
 
+> Buku ini masih dalam progress penyelesaian
+
 |Edisi:| I – September 2020|
 |------|------|
 |Jenis:| Software Development|
