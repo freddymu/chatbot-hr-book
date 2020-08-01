@@ -6,11 +6,18 @@ hide_title: false
 ---
 ## Ekosistem Chatbot
 
+![Trend chatbot global](../assets/bagian-1/gambar-1-12-chatbot-trend-global.png)
+*Gambar-1.12 Grafik Google Trend Chatbot di Dunia*
+
 Perhatikan trend keyword chatbot di dunia, dari tahun ke tahun meningkat dapat dilihat dari grafik berikut. Ini adalah fakta, bahwa perkembangan dan minat terhadap chatbot telah meningkat dari tahun ke tahun. Lalu bagaimana dengan trend di Indonesia, mari kita lihat grafik berikut ini.
+
+![Trend chatbot global](../assets/bagian-1/gambar-1-13-chatbot-trend-indonesia.png)
+*Gambar-1.12 Grafik Google Trend Chatbot di Indonesia*
 
 Di Indonesia pun, tren chatbot semakin meningkat setiap tahunnya. Diikuti dengan bertambahnya perusahaan pengembang platform chatbot di Indonesia. Hal tersebut merupakan fakta yang dapat dijadikan acuan bahwa ekosistem chatbot akan semakin ramai dikemudian hari.
 
-Gambar peta pertumbuhan market chatbot di dunia.
+![Gambar peta pertumbuhan market chatbot di dunia](../assets/bagian-1/gambar-1-14-peta-pertumbuhan-chatbot-dunia.png)
+*Gambar-1.12 Peta pertumbuhan market chatbo di dunia*
 
 Yang berwarna hijau merupakan area dengan pertumbuhan paling tinggi. Dapat dilihat disini Asia merupakan market terbesar untuk chatbot. Lalu yang berwarna kuning, merupakan area dengan pertumbuhan yang cukup tinggi, Dan yang berwarna merah, merupakan area dengan pertumbuhan yang rendah.
 Artinya apa? kita berada di wilayah Asia betul? dan ini merupakan momentum yang baik bagi Anda seorang developer untuk mulai berinvestasi meningkatkan kemampuan dan pengetahuan di dunia chatbot.
@@ -28,11 +35,11 @@ Lalu ada chatbot developer tools, disini sudah jelas, bahwa sebagai developer ki
 Dan yang ketiga ada NLP Engineer atau AI engineer tools. Beberapa tools dapat digunakan untuk beberapa tipe pengguna, artinya perusahaan tersebut menjangkau segmen developer dan non-developer sebagai pengguna platformnya.
 Dari penjelasan tersebut, Anda bisa perhatikan bahwa banyak pilihan yang bisa Anda gunakan ketika mengembangkan chatbot. Dengan mengetahui berbagai macam tools tersebut, Anda akan menjadi lebih bijaksana dalam membuat keputusan. Sehingga Anda dapat bekerja lebih efektif dan efisien.
 Dapat dilihat pada gambar berikut, Chatbot dapat diimplementasikan pada berbagai macam bisnis.
- 
+
 Kalau bicara website, saat ini hampir semua orang tau website, Dan dalam dunia Digital Marketing biasanya lebih akrab disebut Landing Page. Dan di masa mendatang, sekitar 3 tahun kedepan, chatbot akan menjadi salah satu channel distribusi yang umum dalam dunia Digital Marketing.  Ibaratnya kalau sekarang, apa-apa minta dibuatkan website atau landing page. Nanti dikemudian hari, apa-apa minta dibuatkan chatbotnya.
 Faktanya, sudah ada belasan perusahaan di Indonesia yang berinvestasi mengembangkan platform chatbot / conversational AI.
 
-### Pustaka Dan Kerangka Kerja Chatbot
+## Pustaka Dan Kerangka Kerja Chatbot
 
 Tidak lengkap rasanya jika tidak ada framework atau library yang dibahas dalam suatu ekosistem teknologi
  
@@ -41,7 +48,7 @@ Lalu ada SDK dialogflow, kalau pakai SDK tentunya akan vendor locking ya, jadi t
 Framework dan library yang saya sebutkan disini adalah yang memiliki kriteria project aktif, dokumentasinya bagus, contoh penggunaanya banyak dan mudah digunakan. Jika diperhatikan hampir semua library atau framework mendukung NodeJs. Karena JavaScript adalah Bahasa pemograman yang bisa digunakan untuk membangun berbagai macam jenis aplikasi seperti desktop, web, mobile apps, serta mendukung berbagai macam sistem operasi, sehingga dianggap lebih mudah untuk di adopsi bagi para pengembang perangkat lunak khususnya pengembang chatbot.
 
 
-### Siklus Hidup Pengembangan Chatbot
+## Siklus Hidup Pengembangan Chatbot
 
 Layaknya seperti pengembangan perangkat lunak pada umumnya yang memiliki siklus hidup pengembangan. Chatbot pun memiliki hal yang serupa. 
  

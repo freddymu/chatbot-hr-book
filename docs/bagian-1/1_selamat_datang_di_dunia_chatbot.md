@@ -8,7 +8,7 @@ hide_title: false
 
 Halo! di bagian pertama ini saya akan membahas berbagai macam hal tentang chatbot, mulai dari sejarah singkat sampai perusahaan chatbot di Indonesia.
 
-### Sejarah Singkat
+## Sejarah Singkat
 
 Saya akan mulai dari sejarah. Mempelajari sejarah itu penting karena memungkinkan kita untuk memahami masa lalu dimana hal tersebut bisa memungkinkan kita untuk memahami masa kini. Dimulai dari tahun 1950, yaitu Turing Test. Apa itu turing test?
 
@@ -38,7 +38,7 @@ Dan di tahun 2016 juga, Facebook merilis bot untuk aplikasi chat messenger. Pada
 
 Lalu di tahun 2017, Microsoft Indonesia merilis chatbot bernama Rinna di LINE Messenger dan Facebook Messenger. Menurut saya ini chatbot yang humanis, karena chatbot Rinna dapat menunjukan emosional seperti bahagia, senang, takut atau marah melalui chatting dengan emoticon atau gambar. Karakter Rinna adalah karakter anak muda yang di desain dengan latar belakang anak SMA di Indonesia, jadi cukup tau juga bahasa alay.
 
-### Pengertian Chatbot
+## Pengertian Chatbot
 
 Untuk mempermudah memahami konsep-konsep chatbot, Anda perlu mengetahui pengertian dari chatbot.
 Yang pertama, chatbot itu terdiri dari dua kata yaitu chat dan Bot:
@@ -55,11 +55,11 @@ Untuk lebih jelasnya, perhatikan satu lagi pengertian chatbot agar Anda dapat le
 
 Itulah beberapa pengertian tentang Chatbot. Semoga berbagai macam pengertian tadi bisa Anda pahami.
 
-### Jenis Chatbot
+## Jenis Chatbot
 
 Ada 2 macam jenis chatbot yang umum yaitu Rules-Based dan AI-Based atau berbasis kecerdasan buatan dan machine learning. Jika menggunakan keduanya maka bisa disebut Hybrid.
 
-#### Rules-Based Chatbot
+### Rules-Based Chatbot
 
 Rules-Based chatbot adalah chatbot yang dibuat dengan mendefinisikan serangkaian aturan-aturan yang dibuat berdasarkan masalah yang akan dipecahkan atau kebutuhan yang akan dipenuhi.
 
@@ -72,17 +72,17 @@ Chatbot rules-based ini biasanya diimplementasikan dalam pemograman menggunakan 
 
 Selain itu ada juga fungsi-fungsi pencarian string. Dan tentunya conditional statements untuk mengatur alur dari suatu runtunan logika.
 
-#### AI-Based Chatbot
+### AI-Based Chatbot
 
 Selain chatbot jenis rules-based ada chatbot jenis AI-Based. Chatbot jenis ini menggunakan kecerdasan buatan yaitu machine learning ataupun deep learning. Dimana dari teknologi machine learning ini dapat dikembangkan teknologi yang dapat memahami bahasa manusia yang disebut Natural Language Processing atau disingkat NLP.
 
 NLP bertujuan untuk memproses teks lalu mengubah teks menjadi data yang terstruktur. Sedangkan Natural Language Understanding disingkat NLU bertujuan untuk memahami arti dari teks seperti, apakah mengandung sentimen negatif atau positif. Bisa juga untuk memahami suatu klasifikasi topik dalam teks ataupun mendeteksi entity seperti lokasi, nama kota, nama orang, dan lain sebagainya. Dan yang terakhir ada Natural Language Generation disingkat NLG bertujuan untuk mengubah data yang tersruktur menjadi teks dimana teks ini akan menjadi respon terhadap lawan bicaranya.
 
-#### Hybrid Chatbot
+### Hybrid Chatbot
 
 Jenis chatbot ini adalah gabungan dari keduanya yaitu Rules-Based dan AI-based. Siapa yang sudah mengimplementasikan chatbot jenis ini? adalah Dialogflow salah satu perusahaan yang di miliki Google. Dan tentunya banyak perusahaan di luar sana yang sudah mengimplementasikan hybrid. Tentunya ini akan menarik dan akan dijelaskan lebih lanjut pada sesi khusus Dialogflow.
 
-### Chatbot Menurut Para Tokoh Dan Organisasi Dunia
+## Chatbot Menurut Para Tokoh Dan Organisasi Dunia
 
 Yang pertama adalah pernyataan dari Mark Zuckerberg, bahwa berbagi pesan adalah satu dari sedikit hal yang dilakukan orang lebih dari jejaring sosial. Pernyataan tersebut dilontarkan Mark ke publik pada saat tanya jawab pada bulan november 2014. Maksudnya Mark itu adalah penggunaan aplikasi chat akan berkembang lebih tinggi dari pada pengguna sosial media di kemudian hari, dan ini sudah terbukti, nanti akan saya tunjukan datanya.
 
@@ -94,15 +94,24 @@ Selain dari para tokoh tersebut, ada juga dari perusahaan terkemuka seperti gart
 
 Diperkuat dengan hasil survey Oracle yaitu, 80% pebisnis menyatakan bahwa mereka telah menggunakan chatbot atau berencana menggunakannya pada tahun 2020.
 
-### Hype-Cycle Chatbot
+## Hype-Cycle Chatbot
 
 Dalam hidup ini, ada yang namanya siklus hidup, begitu juga dengan teknologi disebut dengan Hype Cycle. Apa itu hype cycle?
 
 Hype cycle adalah presentasi grafis yahg dikembangkan dan digunakan oleh perusahaan bernama Gartner untuk menunjukan kematangan, adopsi, dan aplikasi sosial dari suatu teknologi. Arti kata hype sendiri adalah suatu hal yang menjadi bahan pembicaraan orang banyak karena keunikannya. Dan untuk istilah chatbot biasanya juga disebut dengan virtual assistants atau conversational user interfaces. Semoga Anda tidak bingung dengan istilah-istilah tersebut. Lama-lama Anda akan terbiasa dengan istilah tersebut.
 
+![Grafik Hype Cycle 2016](../assets/bagian-1/gambar-1-4-gartner-hype-cycle-2016.png)
+*Gambar-1.4 Grafik Hype Cycle 2016*
+
 Pertama-tama perhatikan grafik hype cycle di tahun 2016, saya mengambil data ini untuk meperlihatkan keterkaitan dengan ketika Facebook merilis bots di platform messengernya. Dan lihat apa yang terjadi pada grafis disini. Perhatikan teks yang ada panahnya, saya beri kotak merah. Disitu tertulis Conversational User Interfaces. Perhatikan gambarnya, dapat dilihat bahwa teknologi chatbot akan mencapai tahap mature atau banyak di adopsi orang dalam waktu lima sampai 10 tahun lagi.
 
+![Grafik Hype Cycle 2017](../assets/bagian-1/gambar-1-5-gartner-hype-cycle-2017.jpg)
+*Gambar-1.5 Grafik Hype Cycle 2017*
+
 Lalu perhatikan grafik hype cycle tahun 2017, tertulis Virtual Assistants, sudah bergesar dari Innovation trigger ke Peak of Inflated Expectations. Disini terlihat masih 5-10 tahun lagi untuk dapat diadopsi secara global.
+
+![Grafik Hype Cycle 2018](../assets/bagian-1/gambar-1-6-gartner-hype-cycle-2018.png)
+*Gambar-1.6 Grafik Hype Cycle 2018*
 
 Sekarang perhatikan grafik hype cycle tahun 2018, teknologi Virtual Assistants akan bergeser ke fase selanjutnya yaitu Trough of Disillusionment. Dimana teknologi Virtual Assistants ini akan banyak diadopsi dalam waktu dua sampai lima tahun lagi.
 
@@ -114,15 +123,27 @@ Sekarang Anda sudah tau bagaimana perjalanan teknologi chatbot dari mulai inovas
 Memang, sekarang chatbot sudah tidak hype lagi seperti tahun 2016 dan 2017. Tapi jangan salah, teknologi kercerdasan buatan dan Natural Language Processing yang menjadi lebih canggih setiap harinya menjadi bukti yang nyata bahwa meskipun chatbot sudah tidak hype, chatbot tidak akan hilang, justru chatbot akan menuju ke implementasi secara global, merasuk ke berbagai macam sektor bisnis.
 Seperti itulah siklus hype teknologi chatbot. Tapi apa sebenarnya yang membuat hype pada saat itu? latar belakang ini penting untuk Anda ketahui sehingga Anda dapat melihat potensi chatbot lebih luas lagi.
 
-### Kenapa Chatbot Bisa Hype?
+## Kenapa Chatbot Bisa Hype
+
+![Hootsuite-stats](../assets/bagian-1/gambar-1-7-hootsuite-stats.png)
+*Gambar-1.7 Grafik pengguna social platform*
 
 Pada gambar tersebut bisa Anda lihat bahwa Facebook adalah media sosial yang paling banyak digunakan menurut data dari Hootsuite. Hootsuite ini adalah situs layanan manajemen konten yang sering membuat survey tentang media sosial. Jadi datanya cukup bisa dipercaya. Yang pertama ada Facebook, kemudian Youtube, dan ketiga ada Whatsapp, lalu Facebook Messenger dan seterusnya.
 
+![Statista](../assets/bagian-1/gambar-1-8-statista.png)
+*Gambar-1.8 Grafik pengguna aplikasi chat*
+
 Penggunaan aplikasi chat Facebook Messenger dan Whatsapp menduduki peringkat yang tinggi. Ini didorong dengan perkembangan generasi yang makin kesini makin menyukai chatting dari pada telfon langsung. Bisa terlihat pada grafis ini, generasi Y lebih memilih menggunakan social media atau aplikasi chat dari pada melakukan telfon. Data tersebut disediakan oleh Kleiner Perkins yang merupakan VC terkenal di Sillicon Valley, yang memiliki investasi diberbagai macam perusahaan teknologi dunia seperti Amazon, Slack, Google, dan lain sebagainya. Jadi datanya cukup bisa dipercaya ya.
+
+![Popularity of business contact channels by Age](../assets/bagian-1/gambar-1-9-kleiner-perkins.png)
+*Gambar-1.9 Statistik kontak bisnis berdasarkan umur*
 
 Selain pengunaan social platform sudah tinggi, ditambah dengan generasi muda yang lebih menyukai social media dan chatting ketimbang telfon. Alhasil WhatsApp, Facebook Messenger menjadi aplikasi berbagi pesan yang paling banyak digunakan didunia. Untuk area asia pacific, WhatsApp tetap menjadi nomor satu, di lanjut dengan Facebook messenger. Terlihat Line dan Telegram tertinggal cukup jauh dari sisi jumlah penggunanya, namun masih memiliki pengguna setia.
 
-### Perubahan Cara Pandang (Paradigma)
+## Perubahan Cara Pandang (Paradigma)
+
+![Technology trends](../assets/bagian-1/gambar-1-10-perubahan-paradigma.png)
+*Gambar-1.10 Paradigma teknologi dari tahun ke tahun*
 
 Dulu ditahun 80an orang ramai membicarakan PC, Dekstop dan aplikasi di PC seperti Microsoft Excel, PowerPoint, Lotus. Masuk ke tahun 90an era internet dan website mulai naik daun. Browser menjadi aplikasi yang sangat penting, dan website favorit pada saat itu masih ada Yahoo, sebelum Google tenar ya.
 
@@ -132,20 +153,23 @@ Di tahun 2000an, masuklah kepada era Smartphone, ada iOS dan Android dengan berb
 Semua hal tersebut mengubah cara pandang, setiap generasi memiliki caranya masing-masing untuk berkomunikasi. Bagi generasi X tentunya harus menyesuaikan dengan generasi yang kekinian karena sekitar 26% anak muda di Indonesia lah yang akan menjadi garda depan kemajuan bangsa Indonesia. Jadi generasi-generasi sebelumnya harus bisa merangkul generasi muda saat ini.
 Selain perubahan cara pandang, distribusi channel pun telah bertambah. Biasanya dalam suatu bisnis atau penyedia layanan memiliki website atau aplikasi web adalah suatu keharusan, untuk meningkatkan brand awareness dan penjualan. Sampai saat ini pengguna webapps masih banyak khususnya mobile website yang diakses melalui smartphone.
 
-### Chatbot Sebagai Alat Marketing Baru
+## Chatbot Sebagai Saluran Marketing Baru
+
+![Chatbot as Marketing Channel](../assets/bagian-1/gambar-1-11-chatbot-channel.jpg)
+*Gambar-1.11 Perubahan kanal distribusi*
 
 Ketika adanya Apps di smartphone, pemilik bisnis menginginkan layananya dapat diakses juga melalui aplikasi mobile agar lebih eksklusif dan mudah memantau tingkah laku pengguna. Apps seperti menjadi keharusan untuk setiap pemilik bisnis agar membuat layanannya dapat diakses melalui aplikasi smartphone, apa lagi ketika Apps membutuhkan akses seperti galeri, daftar kontak, akses GPS dan lain sebagainya yang bisa mempermudah pengguna membagikan datanya ke pihak penyedia yang nantinya akan diolah untuk meningkatkan pelayanan konsumen.
 Sampai akhirnya ada chatbot. Masuklah chatbot dalam strategi bisnis untuk meningkatkan jumlah traffic yang dapat dikonversi menjadi pembelian produk. Ya! saat ini chatbot ramai dipakai dalam digital marketing untuk lead generation atau meningkatkan penjualan. Chatbot telah menjadi channel baru dalam distribusi informasi di jaman sekarang. Karena dengan banyaknya aplikasi mobile yang ada sekarang, nampaknya pengguna cenderung malas untuk install aplikasi baru. Maka dari itu dengan memanfaatkan chatbot yang hidup melalui aplikasi berbagi pesan ini sangat menarik dan membuat orang tidak perlu repot install apps, tinggal mencari kontak chatbot di aplikasi berbagi pesan lalu mulai berinteraksi.
 
 Dan tentu saja keberadaan chatbot bukan untuk menggantikan aplikasi mobile. Namun melengkapinya untuk mengikuti kebiasaan dari pengguna yang semakin kesini lebih banyak menggunakan aplikasi berbagi pesan.
 
-### Perusahaan Chatbot Di Indonesia
+## Perusahaan Chatbot Di Indonesia
 
 Sekarang Anda akan melihat fakta yang jelas, tentang masa keemasan chatbot di tahun mendatang. Kalau diluar negeri sudah ada puluhan perusahaan yang membuat platform chatbot. Dan di Indonesia pun sudah ada beberapa perusahaan yang memberikan layanan pengembangan chatbot. Dimana ini menjadi fakta yang tidak terbantahkan bahwa chatbot memiliki potensi bisnis yang besar bahkan di Indonesia.
 
 Pertama ada kata.ai, perusahaan yang membuat platform chatbot yang menyasar pengguna end-user atau awam juga developer. Lalu ada bahasa.ai, AiChat.id, Botika.online, BJTech.io, Eva.id, Vutura.io, Lenna.ai, Balesin.id, talkabot.id, talkabot.net, 3dolphins.ai dan Prosa.ai. Prosa.ai memiliki NLP engine yang menurut saya cukup unik. Bisa dilihat disini, prosa.ai memiliki layanan API untuk berbagai macam analisa teks. Jadi kita tinggal pakai saja API-nya.
 
-### Kenapa Orang Mau Pakai Chatbot?
+## Kenapa Orang Mau Pakai Chatbot
 
 Ada beberapa alasan orang mau berinteraksi dengan chatbot
 

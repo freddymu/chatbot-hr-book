@@ -42,21 +42,26 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
+    // {
+    //   href: 'https://github.com/freddymu/chatbot-hr-book',
+    //   label: 'GitHub',
+    //   external: true,
+    // },
+    // {
+    //   href: '#',
+    //   label: 'Download PDF',
+    //   external: true,
+    // },
     {
-      href: 'https://github.com/freddymu/chatbot-hr-book',
-      label: 'GitHub',
+      href: 'https://web.facebook.com/freddy.mu.522',
+      label: 'Get New Update 👀',
       external: true,
     },
     {
-      href: '#',
-      label: 'Download PDF',
+      href: 'https://karyakarsa.com/checkout/3255',
+      label: 'Support Me 🤑',
       external: true,
     },
-    {
-        href: '#',
-        label: 'Support Me 🤑',
-        external: true,
-      },
   ],
 
   // If you have users set above, you add it here:
