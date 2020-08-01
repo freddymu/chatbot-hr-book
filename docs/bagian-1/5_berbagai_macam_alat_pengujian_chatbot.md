@@ -6,13 +6,20 @@ hide_title: false
 ---
 ## Berbagai Macam Alat Pengujian Chatbot
 
-Pengujian chatbot adalah bagian dari siklus hidup pengembangan software, 
+Pengujian chatbot adalah bagian dari siklus hidup pengembangan software,
 dan jangan lupa bahwa chatbot itu adalah software atau perangkat lunak juga.
+
+![Tahap Pengujian](../assets/bagian-1/gambar-1-33-chatbot-lifecycle-2.png)
+*Gambar-1.33 Tahap Pengujian Chatbot*
 
 Ketika melakukan pengujian chatbot, pastikan diuji sesuai dengan dimana chatbot tersebut dapat diakses. Contohnya di Facebook Messenger, Telegram, Line Messenger, atau jika hanya di Facebook, tentunya pengujian chatbot dapat lebih focus ke satu platform saja. Untuk masing-masing channel pasti akan terdapat perbedaan tampilan pesan, terutama pesan yang menggunakan list atau tombol.
 Ada beberapa tools yang saat ini cukup dikenal. Botium dan chatbottest merupakan teknologi open-source sedangkan yang lainnya closed-source. Dapat dilihat ditabel berikut ini:
 
-Source: https://blog.aimultiple.com/chatbot-testing-frameworks/
+![Perkakas Pengujian Chatbot](../assets/bagian-1/gambar-1-34-chatbot-testing-tools.png)
+*Gambar-1.34 Chatbot Testing Tools*
+
+Sumber:
+[https://blog.aimultiple.com/chatbot-testing-frameworks/](https://blog.aimultiple.com/chatbot-testing-frameworks/)
 
 ### Botium
 

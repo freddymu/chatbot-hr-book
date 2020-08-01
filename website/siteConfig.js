@@ -42,21 +42,21 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
-    // {
-    //   href: 'https://github.com/freddymu/chatbot-hr-book',
-    //   label: 'GitHub',
-    //   external: true,
-    // },
+    {
+      href: 'https://github.com/freddymu/chatbot-hr-book',
+      label: 'GitHub',
+      external: true,
+    },
     // {
     //   href: '#',
     //   label: 'Download PDF',
     //   external: true,
     // },
-    {
-      href: 'https://web.facebook.com/freddy.mu.522',
-      label: 'Get New Update 👀',
-      external: true,
-    },
+    // {
+    //   href: 'https://web.facebook.com/freddy.mu.522',
+    //   label: 'Get New Update 👀',
+    //   external: true,
+    // },
     {
       href: 'https://karyakarsa.com/checkout/3255',
       label: 'Support Me 🤑',
