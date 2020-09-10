@@ -78,7 +78,7 @@ Jangan sampai salah menentukan teknologi, bisa-bisa projek akan gagal, dan reput
 
 ### Tentukan kepribadian dan nada
 
-Tentukan kepribadian dan nada. Maksudnya adalah buatlah chatbot seakan-akan memiliki karakter yang hidup, memiliki nama, gambar avatar dan biography sederhana. Ini akan di bahas lebih lanjut di slide selanjutnya.
+Tentukan kepribadian dan nada. Maksudnya adalah buatlah chatbot seakan-akan memiliki karakter yang hidup, memiliki nama, gambar avatar dan biography sederhana. Ini akan di bahas lebih lanjut di bagian selanjutnya.
 
 Dan untuk nada, jika chatbot bisa merespon dengan suara, maka diperlukan karakter atau tone khusus sebagai ciri dari karakter chatbot yang akan membuat orang senang berinteraksi dengan chatbot.
 
